@@ -22,6 +22,14 @@ header .d-flex {
   background-color: #a2e3c4;
   color: white; }
 
+section form .formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 10px; }
+
 .section1 {
   display: flex;
   flex-direction: column;
@@ -80,6 +88,17 @@ header .d-flex {
   position: fixed;
   top: 750px;
   right: 0%; }
+
+.d-flex {
+  margin: 5px 5px 5px 5px; }
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 10px; }
 
 footer section div .logo2 {
   width: 40px;

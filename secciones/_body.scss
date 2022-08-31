@@ -5,6 +5,18 @@
     background-color: #a2e3c4;
     color: rgb(255, 255, 255);
 }
+section{
+    form{
+        .formulario{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+            margin: 10px;
+        }        
+    }
+}
 .section1{
     display: flex;
     flex-direction: column;
@@ -71,4 +83,15 @@
     position: fixed;
     top: 750px;
     right: 0%;
+}
+.d-flex{
+    margin: 5px 5px 5px 5px;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
 }
