@@ -55,6 +55,8 @@ section{
     margin: 15px;
     .texto1{
         display: flex;
+        @extend %estiloParrafo;
+        @include fontStyle;
     }
 }
 .section4{
@@ -70,7 +72,6 @@ section{
         .img2{
             padding: 15%;
             height: 230px;
-            color: blue;
             &:hover{
                 background-color: #a2e3c4;
             }

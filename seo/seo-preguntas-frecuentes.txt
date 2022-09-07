@@ -1,0 +1,5 @@
+Preguntas frecuentes:
+Agregue keywords: FaQ, problema, beneficios, puntos, ofertas.
+Agregue description: Por el momento, Mlemo permite pagos solamente en moneda local. Es decir, la cuenta creada en Argentina solo acepta pagos en pesos argentinos.
+Agreque un extend y un mixin.
+Mejora de en los titulos.

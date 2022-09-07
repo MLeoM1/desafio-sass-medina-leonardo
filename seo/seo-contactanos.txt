@@ -1,0 +1,5 @@
+Contactanos:
+Agregue keywords: formulario, comentario, ayuda, error, mas informacion.
+Agregue description: Te mostramos nuestros medios de contacto ; Chateá con nosotros desde la app de Mlemo. Chat de la app ; Podés escribirnos por mail.
+Agreque un extend y un mixin.
+Mejora de en los titulos.

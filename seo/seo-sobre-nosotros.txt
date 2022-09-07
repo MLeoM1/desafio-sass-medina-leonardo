@@ -1,0 +1,5 @@
+Sobre nosotros:
+Agregue keywords: ¿por que?, objetivo, meta, somos, historia.
+Agregue description: Somos una nueva empresa que busca la mejor manera de administrar tu plata.
+Agreque un extend y un mixin.
+Mejora de en los titulos.

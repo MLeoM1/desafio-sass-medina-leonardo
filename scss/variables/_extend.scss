@@ -1,0 +1,13 @@
+%estiloParrafo{
+    font-family: 'Kanit', sans-serif;
+}
+
+%estiloParrafo2{
+    font-family:'Anek Telugu', sans-serif;
+}
+
+//Mixin
+@mixin fontStyle {
+    background-color: black;
+    color: white;    
+}

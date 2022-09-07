@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@300;400;700&display=swap");
 * {
   box-sizing: border-box;
   margin: 0;
@@ -77,8 +79,7 @@ section form .formulario {
       transform: scale(1.05); }
     .section4 .card .img2 {
       padding: 15%;
-      height: 230px;
-      color: blue; }
+      height: 230px; }
       .section4 .card .img2:hover {
         background-color: #a2e3c4; }
 

@@ -1,0 +1,5 @@
+Tarjeta:
+Agregue keywords: tarjeta, virtual, transferencia, compras, gratis.
+Agregue description: La tarjeta es gratuita, solicitala al crear tu cuenta.
+Agreque un extend y un mixin.
+Mejora de en los titulos.
